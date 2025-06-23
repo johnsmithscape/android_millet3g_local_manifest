@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="johnsmithscape/android_device_samsung_millet3g" path="device/samsung/millet3g" remote="github" revision="cm-12.1" />
+	<project name="johnsmithscape/android_vendor_samsung_millet3g" path="vendor/samsung/millet3g" remote="github" revision="cm-12.1" />
+	<project name="johnsmithscape/android_kernel_samsung_millet3g" path="kernel/samsung/millet3g" remote="github" revision="cm-12.1" />
+</manifest>
