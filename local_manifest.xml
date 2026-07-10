@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project name="johnsmithscape/android_device_samsung_millet3g" path="device/samsung/millet3g" remote="github" revision="cm-12.1" />
+	<project name="johnsmithscape/android_device_samsung_millet-common" path="device/samsung/millet-common" remote="github" revision="cm-12.1" />
 	<project name="johnsmithscape/android_kernel_samsung_millet3g" path="kernel/samsung/millet3g" remote="github" revision="cm-12.1" />
 	<project name="johnsmithscape/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="cm-12.1" />
 	<project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-12.1" />
